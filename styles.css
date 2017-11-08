@@ -1,37 +1,70 @@
 /*stylesheet for html-me-something project*/
 
+
+.intro{
+  font-weight: bold;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#ital{
+  text-align: center;
+  font-family: fantasy,sans-serif;
+  font-variant: small-caps;
+}
+
+header{
+  text-align: center;
+  font-size: 40px;
+}
+
+footer{
+  text-align: center;
+}
+
 body{
   background-color:#f2ccff;
+}
+
+div{
+  margin-left: 90px;
+  margin-left: 90px;
 }
 
 img.resize{
   border-radius:16px;
   padding: 10px;
-  margin: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
   max-width:25%;
   max-height:25%; 
 }
 
+article { 
+  display: block;
+}
+
 p{
-  margin: 50px;
+  margin-left: 80px;
+  margin-right: 80px;
   padding: 10px;
 }
 
 h1{
-  margin: 25px;
+  margin: auto;
   text-align: center;
-  border: 1px solid black;
-
 }
 
 h2{
-  margin: 25px;
+  margin-left: 80px;
+  margin-right: 80px;
   text-align: center;
-
+  text-decoration: underline;
 }
 
 h4{
-  margin: 25px;
+  margin-left: 80px;
+  margin-right: 80px;
   text-align: center;
 
 }
