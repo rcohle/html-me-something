@@ -1,0 +1,36 @@
+/*stylesheet for html-me-something project*/
+
+body{
+  background-color:#f2ccff;
+}
+
+img.resize{
+  border-radius:16px;
+  padding: 10px 10px 10px 10px;
+  max-width:25%;
+  max-height:25%;
+  
+}
+
+
+p{
+  margin: 50px;
+
+}
+
+h1{
+  margin: 100px;
+}
+
+h2{
+  margin: 70px;
+}
+
+h4{
+  margin: 70px;
+}
+
+
+
+
+
